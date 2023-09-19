@@ -1,4 +1,4 @@
-def recur_factorial (n)
+dr_factorial (n)
 if n==1:
 return n
 else:
